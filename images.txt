@@ -1,2 +1,2 @@
-# gcr.io/google-samples/xtrabackup:1.0
+gcr.io/google-samples/xtrabackup:1.0
 nginx
