@@ -1,1 +1,1 @@
-bitnami/nginx:latest
+rockylinux:9.3.20231119-minimal
